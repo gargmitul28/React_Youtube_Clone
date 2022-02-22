@@ -1,5 +1,7 @@
 # Youtube_clone
 
+It is simple small Youtube clone made using Youtube api
+
 ## Screenshots
 
 ![Screenshot 1](https://user-images.githubusercontent.com/68656122/155123761-93e4abd7-998c-4a9a-95bb-4e986c1e1fc5.png)
